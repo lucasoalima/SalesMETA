@@ -15,9 +15,10 @@
   <img src="https://img.shields.io/badge/TypeScript-5-3178c6" alt="TypeScript">
 </p>
 
-> ℹ️ The live demo frontend is on Netlify and loads instantly. The API was hosted on a
-> free tier that may be asleep, so the sales table can appear empty — run the backend
-> locally (below) to see it fully populated.
+> ℹ️ **About the demo data:** the screenshot below shows the app running locally with the
+> seeded H2 database. The public Netlify frontend still loads, but its REST API was hosted
+> on Heroku's free tier (discontinued in Nov/2022), so the online table shows empty. Run the
+> backend locally (steps below) to reproduce the populated view.
 
 ---
 
